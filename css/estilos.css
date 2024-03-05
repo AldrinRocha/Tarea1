@@ -1,0 +1,206 @@
+#lienzo {
+    margin: auto;
+    width: 400px;
+    height: 600px;
+    background-color: #eee;
+}
+
+#nombre {
+    width: 400px;
+    height: 30px;
+    margin: auto;
+    text-align: center;
+}
+
+#orejaizq {
+    position: relative;
+    border-radius: 100px;
+    top: 120px;
+    left: 80px;
+    width: 90px;
+    height: 90px;
+    background-color: #a35146;
+    display: inline-block;
+}
+
+#intizq {
+    position: relative;
+    margin: auto;
+    border-radius: 100px;
+    top: 18px;
+    width: 60px;
+    height: 60px;
+    background-color: bisque;
+}
+
+#orejader {
+    position: relative;
+    border-radius: 100px;
+    top: 120px;
+    left: 130px;
+    width: 90px;
+    height: 90px;
+    background-color: #a35146;
+    display: inline-block;
+}
+
+#intder {
+    position: relative;
+    margin: auto;
+    border-radius: 100px;
+    top: 18px;
+    width: 60px;
+    height: 60px;
+    background-color: bisque;
+}
+
+
+#cabeza {
+    margin: auto;
+    position: relative;
+    border-radius: 100px;
+    top: 60px;
+    width: 150px;
+    height: 150px;
+    background-color: #a35146;
+    z-index: 1;
+}
+
+#boca {
+    margin: auto;
+    position: relative;
+    top: 20px;
+    width: 80px;
+    height: 60px;
+    border-radius: 100px;
+    background-color: bisque;
+}
+
+#nariz {
+    position: relative;
+    border-radius: 40px;
+    margin: auto;
+    width: 20px;
+    height: 10px;
+    background-color: black;
+}
+
+#ojoizq {
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    border: solid black 2px;
+    top: 40px;
+    left: 20px;
+    background-color: white;
+}
+
+#pupilaizq {
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+    margin: auto;
+    position: relative;
+    top: 14px;
+    background-color: black;
+}
+
+#ojoder {
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    border: solid black 2px;
+    top: 40px;
+    left: 40px;
+    background-color: white;
+}
+
+#pupilader {
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+    margin: auto;
+    position: relative;
+    top: 14px;
+    background-color: black;
+}
+
+#cuerpo {
+    margin: auto;
+    position: relative;
+    border-radius: 100px;
+    top: 30px;
+    width: 220px;
+    height: 220px;
+    background-color: #a35146;
+}
+
+#panza {
+    width: 120px;
+    height: 160px;
+    margin: auto;
+    position: relative;
+    top: 30px;
+    border-radius: 100px;
+    background-color: bisque;
+}
+
+#brazoizq {
+    position: relative;
+    bottom: 160px;
+    left: 60px;
+    transform: rotate(45deg);
+    width: 60px;
+    height: 120px;
+    border-radius: 50px;
+    background-color: #a35146;
+    display: inline-block;
+}
+
+#brazoder {
+    position: relative;
+    bottom: 160px;
+    left: 216px;
+    transform: rotate(-45deg);
+    width: 60px;
+    height: 120px;
+    border-radius: 50px;
+    background-color: #a35146;
+    display: inline-block;
+}
+
+#piernaizq {
+    position: relative;
+    bottom: 10px;
+    right: 20px;
+    transform: rotate(12deg);
+    width: 60px;
+    height: 120px;
+    border-radius: 50px;
+    background-color: #a35146;
+    display: inline-block;
+}
+
+#piernader {
+    position: relative;
+    bottom: 10px;
+    left: 40px;
+    transform: rotate(-12deg);
+    width: 60px;
+    height: 120px;
+    border-radius: 50px;
+    background-color: #a35146;
+    display: inline-block;
+}
+
+/*
+----------- Tarea: -----------------
+- hacer un osito usando css y html
+- Poner el nombre en una esquina
+- Subir al repositorio de github
+
+*/
